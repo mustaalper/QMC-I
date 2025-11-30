@@ -10,6 +10,12 @@ The pages of the Application that you visit, the time and date of your visit, th
 The time spent on the Application
 The operating system you use on your mobile device
 
+🏆 **Global Leaderboard and Score Upload**
+The Application offers an optional global leaderboard feature. Game scores are collected **only after the user provides explicit consent**. Before uploading any score, users are clearly informed with a consent prompt such as:
+
+*“Your game score will be uploaded to our server to be displayed on the global leaderboard. Do you agree?”*
+
+
 The Application does not gather precise information about the location of your mobile device.
 
 
